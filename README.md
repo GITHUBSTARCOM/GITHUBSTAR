@@ -9,6 +9,7 @@ Welcome to **GITHUBSTAR**! We're here to empower developers in growing their ope
 Explore GITHUBSTAR now: [http://githubstar.com](http://githubstar.com)
 
 ![Website](https://img.shields.io/website?up_message=Available&url=http%3A%2F%2Fgithub.com%3Futm_source%3Dgithub&color=green)
+[![Python Language](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white)](https://www.python.org)
 ![JavaScript Language](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black)
 ![Languages Count](https://img.shields.io/badge/languages-9-red)
 ![Apache-2.0 License](https://img.shields.io/badge/License-Apache--2.0-blue)
