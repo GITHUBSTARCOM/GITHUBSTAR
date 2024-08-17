@@ -1,6 +1,10 @@
+<div align="center">
+
 ![GITHUBSTAR Logo](https://cdn.jsdelivr.net/gh/gogithubstar/githubstar@main/assets/images/logo.svg)
 
 [English](README.md), [简体中文](README.zh-CN.md)
+
+</div>
 
 # GITHUBSTAR - Accelerate Your Open-Source Success
 
