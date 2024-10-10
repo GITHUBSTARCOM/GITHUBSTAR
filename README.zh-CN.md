@@ -67,7 +67,11 @@ GITHUBSTAR 旨在与你的 GitHub 活动无缝集成，帮助你在开源社区�
 
 利用 GITHUBSTAR 独特的协作功能增强你的 GitHub 项目。
 
-[立即开始](http://githubstar.com) | [加入社区](https://github.com/gogithubstar/githubstar)
+[立即开始](http://githubstar.com) | [加入社区](https://github.com/gogithubstar/githubstar)  
+  
+支持我们：  
+Ko-fi: [https://ko-fi.com/interstellarsponsor](https://ko-fi.com/interstellarsponsor)  
+爱发电: [https://afdian.com/a/githubstar](https://afdian.com/a/githubstar)  
 
 ---
 
