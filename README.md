@@ -67,7 +67,11 @@ GITHUBSTAR is designed to integrate effortlessly with your GitHub activities, he
 
 Enhance your GitHub projects with GITHUBSTAR's unique and collaborative features.
 
-[Get Started Today](http://githubstar.com) | [Join the Community](https://github.com/gogithubstar/githubstar)
+[Get Started Today](http://githubstar.com) | [Join the Community](https://github.com/gogithubstar/githubstar)  
+  
+Support Us：  
+Ko-fi: [https://ko-fi.com/interstellarsponsor](https://ko-fi.com/interstellarsponsor)  
+Afdian: [https://afdian.com/a/githubstar](https://afdian.com/a/githubstar)  
 
 ---
 
